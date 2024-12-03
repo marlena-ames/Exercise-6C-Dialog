@@ -1,9 +1,7 @@
 # Exercise-06C-Dialog
+## References
+* Textures from: https://freepbr.com/
+* Models and animations from: Mixamo.com
 
-# References
-
-Textures from: https://freepbr.com/
-Models and animations from: Mixamo.com
-
-# Created by 
-Nathan Mishler
+## Created by 
+Marlena Ames
